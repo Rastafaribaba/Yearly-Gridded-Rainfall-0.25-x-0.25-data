@@ -1,0 +1,7361 @@
+Driver: GTiff/GeoTIFF
+
+Files: C:\\Users\\joshi\\Downloads\\Google earth Imagery_pranmati\\RF25 2001.tif
+
+Size is 135, 129
+
+Coordinate System is:
+
+GEOGCRS["WGS 84",
+
+    DATUM["World Geodetic System 1984",
+
+        ELLIPSOID["WGS 84",6378137,298.257223563,
+
+            LENGTHUNIT["metre",1]]],
+
+    PRIMEM["Greenwich",0,
+
+        ANGLEUNIT["degree",0.0174532925199433]],
+
+    CS[ellipsoidal,2],
+
+        AXIS["geodetic latitude (Lat)",north,
+
+            ORDER[1],
+
+            ANGLEUNIT["degree",0.0174532925199433]],
+
+        AXIS["geodetic longitude (Lon)",east,
+
+            ORDER[2],
+
+            ANGLEUNIT["degree",0.0174532925199433]],
+
+    ID["EPSG",4326]]
+
+Data axis to CRS axis mapping: 2,1
+
+Origin = (66.375000000000000,38.625000000000000)
+
+Pixel Size = (0.250000000000000,-0.250000000000000)
+
+Metadata:
+
+  AREA_OR_POINT=Area
+
+Image Structure Metadata:
+
+  INTERLEAVE=PIXEL
+
+Corner Coordinates:
+
+Upper Left  (  66.3750000,  38.6250000) ( 66d22'30.00"E, 38d37'30.00"N)
+
+Lower Left  (  66.3750000,   6.3750000) ( 66d22'30.00"E,  6d22'30.00"N)
+
+Upper Right ( 100.1250000,  38.6250000) (100d 7'30.00"E, 38d37'30.00"N)
+
+Lower Right ( 100.1250000,   6.3750000) (100d 7'30.00"E,  6d22'30.00"N)
+
+Center      (  83.2500000,  22.5000000) ( 83d15' 0.00"E, 22d30' 0.00"N)
+
+Band 1 Block=135x1 Type=Float64, ColorInterp=Gray
+
+    Computed Min/Max=0.000,90.663
+
+  Minimum=0.000, Maximum=90.663, Mean=1.553, StdDev=4.742
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=90.662925720215
+
+    STATISTICS_MEAN=1.5533290478978
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=4.7422094361339
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 2 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,110.427
+
+  Minimum=0.000, Maximum=110.427, Mean=1.247, StdDev=5.512
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=110.42691040039
+
+    STATISTICS_MEAN=1.247019691687
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.5117914579269
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 3 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,42.400
+
+  Minimum=0.000, Maximum=42.400, Mean=0.117, StdDev=0.916
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=42.400001525879
+
+    STATISTICS_MEAN=0.11677768216059
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.91597975567427
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 4 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,66.434
+
+  Minimum=0.000, Maximum=66.434, Mean=0.159, StdDev=1.581
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=66.434234619141
+
+    STATISTICS_MEAN=0.15906525229604
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.5806160090635
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 5 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,29.986
+
+  Minimum=0.000, Maximum=29.986, Mean=0.188, StdDev=1.283
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=29.986488342285
+
+    STATISTICS_MEAN=0.18768533187154
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.2825445077923
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 6 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,13.060
+
+  Minimum=0.000, Maximum=13.060, Mean=0.015, StdDev=0.297
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=13.059628486633
+
+    STATISTICS_MEAN=0.015166140297288
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.29725423707562
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 7 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,10.322
+
+  Minimum=0.000, Maximum=10.322, Mean=0.020, StdDev=0.286
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=10.322037696838
+
+    STATISTICS_MEAN=0.020278018811458
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.28616388151405
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 8 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,17.637
+
+  Minimum=0.000, Maximum=17.637, Mean=0.018, StdDev=0.425
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=17.637407302856
+
+    STATISTICS_MEAN=0.0176270775569
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.42450834399242
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 9 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,72.806
+
+  Minimum=0.000, Maximum=72.806, Mean=0.028, StdDev=1.126
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=72.806327819824
+
+    STATISTICS_MEAN=0.027907420847322
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.125795496421
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 10 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,25.280
+
+  Minimum=0.000, Maximum=25.280, Mean=0.016, StdDev=0.501
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=25.280284881592
+
+    STATISTICS_MEAN=0.016031522934207
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.50065440089556
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 11 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,10.582
+
+  Minimum=0.000, Maximum=10.582, Mean=0.011, StdDev=0.271
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=10.582444190979
+
+    STATISTICS_MEAN=0.010884598343304
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.27062433257649
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 12 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,16.355
+
+  Minimum=0.000, Maximum=16.355, Mean=0.014, StdDev=0.383
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=16.355045318604
+
+    STATISTICS_MEAN=0.013872160132761
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.38296733965677
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 13 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,18.909
+
+  Minimum=0.000, Maximum=18.909, Mean=0.056, StdDev=0.632
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=18.909339904785
+
+    STATISTICS_MEAN=0.055854023690129
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.63152545876471
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 14 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,14.698
+
+  Minimum=0.000, Maximum=14.698, Mean=0.009, StdDev=0.261
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=14.697839736938
+
+    STATISTICS_MEAN=0.0090672718968894
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.26052140114193
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 15 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,0.000
+
+  Minimum=0.000, Maximum=0.000, Mean=0.000, StdDev=0.000
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=0
+
+    STATISTICS_MEAN=0
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 16 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,27.504
+
+  Minimum=0.000, Maximum=27.504, Mean=0.044, StdDev=0.618
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=27.504453659058
+
+    STATISTICS_MEAN=0.043590270246977
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.61797458410885
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 17 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,7.928
+
+  Minimum=0.000, Maximum=7.928, Mean=0.029, StdDev=0.325
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=7.9275507926941
+
+    STATISTICS_MEAN=0.029033217987377
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.32534303674227
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 18 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,3.693
+
+  Minimum=0.000, Maximum=3.693, Mean=0.003, StdDev=0.086
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=3.693074464798
+
+    STATISTICS_MEAN=0.0027073838032848
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.085599919871206
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 19 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,24.697
+
+  Minimum=0.000, Maximum=24.697, Mean=0.025, StdDev=0.644
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=24.69654083252
+
+    STATISTICS_MEAN=0.025289018819293
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.64430612705124
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 20 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,8.595
+
+  Minimum=0.000, Maximum=8.595, Mean=0.023, StdDev=0.283
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=8.5951538085938
+
+    STATISTICS_MEAN=0.022927243655771
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.28276968437029
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 21 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,28.909
+
+  Minimum=0.000, Maximum=28.909, Mean=0.074, StdDev=0.785
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=28.908720016479
+
+    STATISTICS_MEAN=0.074211286461937
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.78528106741898
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 22 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,42.501
+
+  Minimum=0.000, Maximum=42.501, Mean=0.632, StdDev=3.141
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=42.500816345215
+
+    STATISTICS_MEAN=0.63188089138853
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.1407519828215
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 23 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,29.215
+
+  Minimum=0.000, Maximum=29.215, Mean=0.706, StdDev=2.607
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=29.215291976929
+
+    STATISTICS_MEAN=0.7058413932963
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.6067077377737
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 24 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,45.606
+
+  Minimum=0.000, Maximum=45.606, Mean=0.517, StdDev=2.994
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=45.606212615967
+
+    STATISTICS_MEAN=0.51652993907961
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.9938070559363
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 25 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,8.351
+
+  Minimum=0.000, Maximum=8.351, Mean=0.127, StdDev=0.787
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=8.3508806228638
+
+    STATISTICS_MEAN=0.12732315739642
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.78698013764437
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 26 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,23.517
+
+  Minimum=0.000, Maximum=23.517, Mean=0.026, StdDev=0.486
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=23.516544342041
+
+    STATISTICS_MEAN=0.025632147942156
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.48551144154384
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 27 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,18.991
+
+  Minimum=0.000, Maximum=18.991, Mean=0.032, StdDev=0.582
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=18.990682601929
+
+    STATISTICS_MEAN=0.032362449472946
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.58195154196495
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 28 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,18.225
+
+  Minimum=0.000, Maximum=18.225, Mean=0.008, StdDev=0.318
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=18.22532081604
+
+    STATISTICS_MEAN=0.0079694189713618
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.31813952956094
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 29 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,11.079
+
+  Minimum=0.000, Maximum=11.079, Mean=0.004, StdDev=0.171
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=11.079224586487
+
+    STATISTICS_MEAN=0.0037608824123979
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.17107490207373
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 30 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,25.785
+
+  Minimum=0.000, Maximum=25.785, Mean=0.076, StdDev=0.914
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=25.785461425781
+
+    STATISTICS_MEAN=0.075906888875243
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.91391836327037
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 31 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,31.555
+
+  Minimum=0.000, Maximum=31.555, Mean=0.139, StdDev=1.299
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=31.555437088013
+
+    STATISTICS_MEAN=0.13895898318934
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.2993821638939
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 32 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,34.710
+
+  Minimum=0.000, Maximum=34.710, Mean=0.114, StdDev=1.036
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=34.709663391113
+
+    STATISTICS_MEAN=0.11390127798604
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.0355945565038
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 33 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,49.431
+
+  Minimum=0.000, Maximum=49.431, Mean=0.304, StdDev=2.323
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=49.4313621521
+
+    STATISTICS_MEAN=0.30366885421181
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.3228982512248
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 34 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,43.526
+
+  Minimum=0.000, Maximum=43.526, Mean=0.175, StdDev=1.879
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=43.525543212891
+
+    STATISTICS_MEAN=0.17475608477367
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.8785665314187
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 35 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,29.993
+
+  Minimum=0.000, Maximum=29.993, Mean=0.087, StdDev=0.856
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=29.993431091309
+
+    STATISTICS_MEAN=0.086675937415838
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.8564835431467
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 36 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,30.200
+
+  Minimum=0.000, Maximum=30.200, Mean=0.060, StdDev=0.720
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=30.200000762939
+
+    STATISTICS_MEAN=0.060104746329482
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.72035950622485
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 37 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,17.997
+
+  Minimum=0.000, Maximum=17.997, Mean=0.038, StdDev=0.525
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=17.997007369995
+
+    STATISTICS_MEAN=0.038168763869429
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.52508713265293
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 38 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,2.083
+
+  Minimum=0.000, Maximum=2.083, Mean=0.003, StdDev=0.054
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=2.083477973938
+
+    STATISTICS_MEAN=0.0025490346116274
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.054318109310324
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 39 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,32.028
+
+  Minimum=0.000, Maximum=32.028, Mean=0.024, StdDev=0.706
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=32.027866363525
+
+    STATISTICS_MEAN=0.02437520144833
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.70569484168517
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 40 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,10.796
+
+  Minimum=0.000, Maximum=10.796, Mean=0.008, StdDev=0.238
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=10.795909881592
+
+    STATISTICS_MEAN=0.0082163601651439
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.23787466889238
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 41 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,0.000
+
+  Minimum=0.000, Maximum=0.000, Mean=0.000, StdDev=0.000
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=0
+
+    STATISTICS_MEAN=0
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 42 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,5.965
+
+  Minimum=0.000, Maximum=5.965, Mean=0.019, StdDev=0.207
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=5.9654421806335
+
+    STATISTICS_MEAN=0.018508554285424
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.20730782390719
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 43 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,3.200
+
+  Minimum=0.000, Maximum=3.200, Mean=0.033, StdDev=0.257
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=3.2000000476837
+
+    STATISTICS_MEAN=0.032841676295308
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.25702815204824
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 44 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,3.411
+
+  Minimum=0.000, Maximum=3.411, Mean=0.016, StdDev=0.176
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=3.4109857082367
+
+    STATISTICS_MEAN=0.015790959599516
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.17601970234079
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 45 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,13.843
+
+  Minimum=0.000, Maximum=13.843, Mean=0.260, StdDev=1.211
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=13.842695236206
+
+    STATISTICS_MEAN=0.26008347485223
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.2105399545605
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 46 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,34.444
+
+  Minimum=0.000, Maximum=34.444, Mean=0.911, StdDev=3.212
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=34.444263458252
+
+    STATISTICS_MEAN=0.91142474731924
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.2116297454139
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 47 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,15.746
+
+  Minimum=0.000, Maximum=15.746, Mean=0.172, StdDev=1.020
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=15.745757102966
+
+    STATISTICS_MEAN=0.17161998680157
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.0195727674334
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 48 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,21.300
+
+  Minimum=0.000, Maximum=21.300, Mean=0.151, StdDev=0.817
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=21.299999237061
+
+    STATISTICS_MEAN=0.15114795114308
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.81662479113292
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 49 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,31.029
+
+  Minimum=0.000, Maximum=31.029, Mean=0.126, StdDev=0.785
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=31.029340744019
+
+    STATISTICS_MEAN=0.12586659342681
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.78509679415275
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 50 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,24.872
+
+  Minimum=0.000, Maximum=24.872, Mean=0.263, StdDev=1.409
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=24.872295379639
+
+    STATISTICS_MEAN=0.26302406059745
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.4092334797912
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 51 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,41.554
+
+  Minimum=0.000, Maximum=41.554, Mean=0.230, StdDev=1.341
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=41.553634643555
+
+    STATISTICS_MEAN=0.2295016096342
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.3414648498632
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 52 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,30.800
+
+  Minimum=0.000, Maximum=30.800, Mean=0.674, StdDev=2.787
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=30.800001144409
+
+    STATISTICS_MEAN=0.67356256898087
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.7866190336845
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 53 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,30.801
+
+  Minimum=0.000, Maximum=30.801, Mean=0.735, StdDev=3.065
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=30.800666809082
+
+    STATISTICS_MEAN=0.73541732551042
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.0653381890848
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 54 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,28.400
+
+  Minimum=0.000, Maximum=28.400, Mean=0.889, StdDev=3.579
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=28.39999961853
+
+    STATISTICS_MEAN=0.88931589433886
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.5786253200337
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 55 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,22.213
+
+  Minimum=0.000, Maximum=22.213, Mean=0.598, StdDev=2.426
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=22.2131690979
+
+    STATISTICS_MEAN=0.59787764338105
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.4263913275679
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 56 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,23.698
+
+  Minimum=0.000, Maximum=23.698, Mean=0.777, StdDev=2.758
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=23.698055267334
+
+    STATISTICS_MEAN=0.77680876226248
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.757604058023
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 57 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,123.935
+
+  Minimum=0.000, Maximum=123.935, Mean=1.819, StdDev=6.365
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=123.93463897705
+
+    STATISTICS_MEAN=1.8190002386037
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.3648815442784
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 58 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,66.428
+
+  Minimum=0.000, Maximum=66.428, Mean=0.913, StdDev=4.907
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=66.428329467773
+
+    STATISTICS_MEAN=0.91321774064221
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=4.9071252030021
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 59 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,42.000
+
+  Minimum=0.000, Maximum=42.000, Mean=0.250, StdDev=1.364
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=42.000400543213
+
+    STATISTICS_MEAN=0.25049152699548
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.3636062331945
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 60 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,135.943
+
+  Minimum=0.000, Maximum=135.943, Mean=0.651, StdDev=3.831
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=135.9427947998
+
+    STATISTICS_MEAN=0.65108153764324
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.8308652252078
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 61 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,21.650
+
+  Minimum=0.000, Maximum=21.650, Mean=0.207, StdDev=1.298
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=21.650409698486
+
+    STATISTICS_MEAN=0.20742565523878
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.2975840618513
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 62 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,30.582
+
+  Minimum=0.000, Maximum=30.582, Mean=0.128, StdDev=1.037
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=30.581928253174
+
+    STATISTICS_MEAN=0.12787892847149
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.0366120851766
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 63 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,21.189
+
+  Minimum=0.000, Maximum=21.189, Mean=0.117, StdDev=0.937
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=21.189453125
+
+    STATISTICS_MEAN=0.11731195017864
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.93676264380461
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 64 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,21.174
+
+  Minimum=0.000, Maximum=21.174, Mean=0.478, StdDev=2.034
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=21.174301147461
+
+    STATISTICS_MEAN=0.47822078633498
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.033632674853
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 65 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,25.743
+
+  Minimum=0.000, Maximum=25.743, Mean=0.267, StdDev=1.373
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=25.742998123169
+
+    STATISTICS_MEAN=0.26745556506398
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.3733413813063
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 66 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,92.305
+
+  Minimum=0.000, Maximum=92.305, Mean=0.293, StdDev=2.420
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=92.305046081543
+
+    STATISTICS_MEAN=0.29286352171143
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.4204014725648
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 67 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,41.147
+
+  Minimum=0.000, Maximum=41.147, Mean=0.312, StdDev=2.119
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=41.147445678711
+
+    STATISTICS_MEAN=0.31240249467499
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.1190160902992
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 68 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,33.055
+
+  Minimum=0.000, Maximum=33.055, Mean=0.225, StdDev=1.352
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=33.054744720459
+
+    STATISTICS_MEAN=0.22498827359033
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.3519782583022
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 69 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,53.872
+
+  Minimum=0.000, Maximum=53.872, Mean=0.257, StdDev=1.690
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=53.87181854248
+
+    STATISTICS_MEAN=0.25670701247624
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.689903466332
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 70 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,25.293
+
+  Minimum=0.000, Maximum=25.293, Mean=0.120, StdDev=0.899
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=25.293304443359
+
+    STATISTICS_MEAN=0.12020957703484
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.89898691908927
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 71 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,12.153
+
+  Minimum=0.000, Maximum=12.153, Mean=0.068, StdDev=0.544
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=12.153221130371
+
+    STATISTICS_MEAN=0.068461345856909
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.54436485952799
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 72 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,22.579
+
+  Minimum=0.000, Maximum=22.579, Mean=0.578, StdDev=2.158
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=22.579454421997
+
+    STATISTICS_MEAN=0.57809001028292
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.1581658517421
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 73 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,35.955
+
+  Minimum=0.000, Maximum=35.955, Mean=1.104, StdDev=4.504
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=35.954536437988
+
+    STATISTICS_MEAN=1.1038155519313
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=4.5040273847366
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 74 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,24.754
+
+  Minimum=0.000, Maximum=24.754, Mean=0.300, StdDev=1.395
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=24.753572463989
+
+    STATISTICS_MEAN=0.29969860776647
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.3953928406472
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 75 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,40.678
+
+  Minimum=0.000, Maximum=40.678, Mean=0.195, StdDev=1.406
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=40.678226470947
+
+    STATISTICS_MEAN=0.1947419298415
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.4060433807855
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 76 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,14.535
+
+  Minimum=0.000, Maximum=14.535, Mean=0.091, StdDev=0.614
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=14.535005569458
+
+    STATISTICS_MEAN=0.09139701814408
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.6142284026963
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 77 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,13.193
+
+  Minimum=0.000, Maximum=13.193, Mean=0.074, StdDev=0.644
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=13.193315505981
+
+    STATISTICS_MEAN=0.073924404011378
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.64387960629696
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 78 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,22.650
+
+  Minimum=0.000, Maximum=22.650, Mean=0.141, StdDev=0.997
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=22.649610519409
+
+    STATISTICS_MEAN=0.14140564593202
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.9970529274271
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 79 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,103.876
+
+  Minimum=0.000, Maximum=103.876, Mean=0.863, StdDev=3.738
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=103.87567901611
+
+    STATISTICS_MEAN=0.86339033239707
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.7377853998129
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 80 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,63.650
+
+  Minimum=0.000, Maximum=63.650, Mean=1.014, StdDev=4.426
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=63.649765014648
+
+    STATISTICS_MEAN=1.0139565805962
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=4.4264660125654
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 81 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,49.268
+
+  Minimum=0.000, Maximum=49.268, Mean=0.946, StdDev=4.204
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=49.268390655518
+
+    STATISTICS_MEAN=0.94552010292372
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=4.2035400080923
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 82 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,41.405
+
+  Minimum=0.000, Maximum=41.405, Mean=1.233, StdDev=3.960
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=41.404865264893
+
+    STATISTICS_MEAN=1.2328773863752
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.9604189642694
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 83 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,61.443
+
+  Minimum=0.000, Maximum=61.443, Mean=0.786, StdDev=3.629
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=61.442890167236
+
+    STATISTICS_MEAN=0.78617844141954
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.6290970749491
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 84 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,47.117
+
+  Minimum=0.000, Maximum=47.117, Mean=0.915, StdDev=4.414
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=47.116748809814
+
+    STATISTICS_MEAN=0.91542412149574
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=4.4144311883173
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 85 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,39.579
+
+  Minimum=0.000, Maximum=39.579, Mean=0.689, StdDev=3.409
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=39.578685760498
+
+    STATISTICS_MEAN=0.68900510495098
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.4091579951443
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 86 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,68.153
+
+  Minimum=0.000, Maximum=68.153, Mean=0.335, StdDev=2.337
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=68.15274810791
+
+    STATISTICS_MEAN=0.33540706017552
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.3366206916694
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 87 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,56.383
+
+  Minimum=0.000, Maximum=56.383, Mean=0.447, StdDev=2.527
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=56.382774353027
+
+    STATISTICS_MEAN=0.44659121987004
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.5268786229662
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 88 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,52.366
+
+  Minimum=0.000, Maximum=52.366, Mean=2.300, StdDev=6.935
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=52.366481781006
+
+    STATISTICS_MEAN=2.2999951441237
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.9350394311832
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 89 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,63.000
+
+  Minimum=0.000, Maximum=63.000, Mean=2.274, StdDev=6.455
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=63.000003814697
+
+    STATISTICS_MEAN=2.2742566438774
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.4548868564427
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 90 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,67.107
+
+  Minimum=0.000, Maximum=67.107, Mean=2.350, StdDev=6.398
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=67.107009887695
+
+    STATISTICS_MEAN=2.3503429013425
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.3982905816235
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 91 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,50.700
+
+  Minimum=0.000, Maximum=50.700, Mean=0.629, StdDev=2.813
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=50.700000762939
+
+    STATISTICS_MEAN=0.6287468247698
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.813149204793
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 92 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,40.896
+
+  Minimum=0.000, Maximum=40.896, Mean=0.657, StdDev=2.513
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=40.895774841309
+
+    STATISTICS_MEAN=0.65689321937104
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.5130873994611
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 93 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,56.984
+
+  Minimum=0.000, Maximum=56.984, Mean=0.942, StdDev=3.285
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=56.984218597412
+
+    STATISTICS_MEAN=0.94156608133337
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.2851002937141
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 94 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,38.788
+
+  Minimum=0.000, Maximum=38.788, Mean=0.580, StdDev=2.078
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=38.788497924805
+
+    STATISTICS_MEAN=0.57982598200267
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.0783965997732
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 95 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,33.379
+
+  Minimum=0.000, Maximum=33.379, Mean=0.238, StdDev=1.430
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=33.379386901855
+
+    STATISTICS_MEAN=0.23799786138394
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.4300308985271
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 96 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,81.616
+
+  Minimum=0.000, Maximum=81.616, Mean=0.388, StdDev=3.027
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=81.616363525391
+
+    STATISTICS_MEAN=0.38833320180763
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.0274750262563
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 97 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,55.805
+
+  Minimum=0.000, Maximum=55.805, Mean=0.283, StdDev=1.945
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=55.804710388184
+
+    STATISTICS_MEAN=0.28309421262897
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.944729583495
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 98 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,61.153
+
+  Minimum=0.000, Maximum=61.153, Mean=0.274, StdDev=2.160
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=61.153045654297
+
+    STATISTICS_MEAN=0.27445597145751
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.1595021255345
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 99 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,63.704
+
+  Minimum=0.000, Maximum=63.704, Mean=0.637, StdDev=3.192
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=63.704483032227
+
+    STATISTICS_MEAN=0.63700096885389
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.1915364658382
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 100 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,55.000
+
+  Minimum=0.000, Maximum=55.000, Mean=1.025, StdDev=3.874
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=55
+
+    STATISTICS_MEAN=1.0252445258101
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.8738494960728
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 101 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,74.000
+
+  Minimum=0.000, Maximum=74.000, Mean=1.743, StdDev=5.265
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=74
+
+    STATISTICS_MEAN=1.7426764217478
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.2650030293376
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 102 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,137.200
+
+  Minimum=0.000, Maximum=137.200, Mean=2.112, StdDev=6.721
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=137.19999694824
+
+    STATISTICS_MEAN=2.1121929053286
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.7206915244634
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 103 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,164.363
+
+  Minimum=0.000, Maximum=164.363, Mean=3.697, StdDev=10.087
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=164.36277770996
+
+    STATISTICS_MEAN=3.6966652421928
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=10.087126932053
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 104 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,72.233
+
+  Minimum=0.000, Maximum=72.233, Mean=2.938, StdDev=6.771
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=72.232719421387
+
+    STATISTICS_MEAN=2.9378684558166
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.7708799909182
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 105 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,107.697
+
+  Minimum=0.000, Maximum=107.697, Mean=2.673, StdDev=7.384
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=107.69667816162
+
+    STATISTICS_MEAN=2.672980923803
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=7.3839066315108
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 106 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,64.000
+
+  Minimum=0.000, Maximum=64.000, Mean=2.363, StdDev=5.655
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=64
+
+    STATISTICS_MEAN=2.3628391965422
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.6550678551746
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 107 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,92.204
+
+  Minimum=0.000, Maximum=92.204, Mean=4.148, StdDev=7.820
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=92.203742980957
+
+    STATISTICS_MEAN=4.1482346161095
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=7.8202289388893
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 108 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,96.384
+
+  Minimum=0.000, Maximum=96.384, Mean=3.767, StdDev=7.977
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=96.384338378906
+
+    STATISTICS_MEAN=3.7671023439091
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=7.9771149947227
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 109 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,65.350
+
+  Minimum=0.000, Maximum=65.350, Mean=1.663, StdDev=4.065
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=65.349723815918
+
+    STATISTICS_MEAN=1.6625826234714
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=4.0651171554169
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 110 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,97.903
+
+  Minimum=0.000, Maximum=97.903, Mean=2.185, StdDev=5.318
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=97.90283203125
+
+    STATISTICS_MEAN=2.1849569411713
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.3176093432698
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 111 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,70.669
+
+  Minimum=0.000, Maximum=70.669, Mean=0.899, StdDev=4.050
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=70.668685913086
+
+    STATISTICS_MEAN=0.89923857822324
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=4.0504652758708
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 112 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,63.855
+
+  Minimum=0.000, Maximum=63.855, Mean=0.418, StdDev=1.977
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=63.855026245117
+
+    STATISTICS_MEAN=0.4175991085024
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.9774988061591
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 113 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,142.446
+
+  Minimum=0.000, Maximum=142.446, Mean=0.390, StdDev=2.953
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=142.44583129883
+
+    STATISTICS_MEAN=0.39039958401836
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.9531694453375
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 114 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,114.939
+
+  Minimum=0.000, Maximum=114.939, Mean=0.157, StdDev=2.023
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=114.93905639648
+
+    STATISTICS_MEAN=0.15676793292927
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.0227850771895
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 115 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,73.742
+
+  Minimum=0.000, Maximum=73.742, Mean=0.260, StdDev=1.786
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=73.741981506348
+
+    STATISTICS_MEAN=0.25951535655913
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.7859165424856
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 116 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,177.380
+
+  Minimum=0.000, Maximum=177.380, Mean=0.992, StdDev=5.279
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=177.37979125977
+
+    STATISTICS_MEAN=0.99157745643886
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.2792243097719
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 117 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,177.064
+
+  Minimum=0.000, Maximum=177.064, Mean=1.157, StdDev=4.782
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=177.06384277344
+
+    STATISTICS_MEAN=1.157387369148
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=4.7818850401956
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 118 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,225.950
+
+  Minimum=0.000, Maximum=225.950, Mean=2.371, StdDev=11.072
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=225.94993591309
+
+    STATISTICS_MEAN=2.3708000351419
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=11.0720591299
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 119 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,91.495
+
+  Minimum=0.000, Maximum=91.495, Mean=1.682, StdDev=6.960
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=91.494956970215
+
+    STATISTICS_MEAN=1.682036632726
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.960200990448
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 120 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,201.618
+
+  Minimum=0.000, Maximum=201.618, Mean=1.681, StdDev=8.675
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=201.61842346191
+
+    STATISTICS_MEAN=1.6807115565247
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=8.675000319882
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 121 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,105.219
+
+  Minimum=0.000, Maximum=105.219, Mean=1.011, StdDev=3.924
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=105.21933746338
+
+    STATISTICS_MEAN=1.0109137012492
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.9240647599189
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 122 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,118.869
+
+  Minimum=0.000, Maximum=118.869, Mean=1.589, StdDev=5.448
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=118.86859893799
+
+    STATISTICS_MEAN=1.5886975652407
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.4479304830962
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 123 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,114.711
+
+  Minimum=0.000, Maximum=114.711, Mean=1.434, StdDev=5.608
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=114.71136474609
+
+    STATISTICS_MEAN=1.4337810918368
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.608026544045
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 124 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,134.844
+
+  Minimum=0.000, Maximum=134.844, Mean=1.779, StdDev=5.665
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=134.84367370605
+
+    STATISTICS_MEAN=1.7793514184146
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.6653140060252
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 125 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,55.103
+
+  Minimum=0.000, Maximum=55.103, Mean=1.083, StdDev=3.912
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=55.102516174316
+
+    STATISTICS_MEAN=1.083205433714
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.9119078311671
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 126 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,114.403
+
+  Minimum=0.000, Maximum=114.403, Mean=1.782, StdDev=7.239
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=114.40302276611
+
+    STATISTICS_MEAN=1.7817773296318
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=7.2388331219659
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 127 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,87.066
+
+  Minimum=0.000, Maximum=87.066, Mean=1.665, StdDev=5.719
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=87.066131591797
+
+    STATISTICS_MEAN=1.6652458744659
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.7187060453165
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 128 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,53.449
+
+  Minimum=0.000, Maximum=53.449, Mean=2.019, StdDev=6.211
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=53.448909759521
+
+    STATISTICS_MEAN=2.0194055437907
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.2111546157996
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 129 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,140.336
+
+  Minimum=0.000, Maximum=140.336, Mean=1.888, StdDev=8.395
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=140.33631896973
+
+    STATISTICS_MEAN=1.8882857931869
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=8.3951358253776
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 130 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,153.085
+
+  Minimum=0.000, Maximum=153.085, Mean=2.945, StdDev=11.761
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=153.08508300781
+
+    STATISTICS_MEAN=2.9448951427134
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=11.760779897338
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 131 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,99.448
+
+  Minimum=0.000, Maximum=99.448, Mean=1.305, StdDev=5.611
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=99.447952270508
+
+    STATISTICS_MEAN=1.304569940109
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.6114624341546
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 132 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,22.869
+
+  Minimum=0.000, Maximum=22.869, Mean=0.320, StdDev=1.497
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=22.868968963623
+
+    STATISTICS_MEAN=0.320234771132
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.4970031956009
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 133 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,72.338
+
+  Minimum=0.000, Maximum=72.338, Mean=0.369, StdDev=2.835
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=72.338157653809
+
+    STATISTICS_MEAN=0.36886147767798
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.835415720675
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 134 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,84.000
+
+  Minimum=0.000, Maximum=84.000, Mean=1.079, StdDev=4.383
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=84
+
+    STATISTICS_MEAN=1.0790540820677
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=4.3833408698025
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 135 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,120.762
+
+  Minimum=0.000, Maximum=120.762, Mean=1.338, StdDev=5.720
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=120.7615814209
+
+    STATISTICS_MEAN=1.3376455896329
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.7201815201493
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 136 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,117.925
+
+  Minimum=0.000, Maximum=117.925, Mean=2.613, StdDev=6.670
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=117.92535400391
+
+    STATISTICS_MEAN=2.6126306800413
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.670188572917
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 137 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,152.849
+
+  Minimum=0.000, Maximum=152.849, Mean=2.298, StdDev=6.701
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=152.84898376465
+
+    STATISTICS_MEAN=2.2982158937299
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.7005973615492
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 138 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,77.257
+
+  Minimum=0.000, Maximum=77.257, Mean=2.166, StdDev=5.248
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=77.256507873535
+
+    STATISTICS_MEAN=2.1660363264697
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.247690579813
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 139 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,112.767
+
+  Minimum=0.000, Maximum=112.767, Mean=2.097, StdDev=6.022
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=112.76656341553
+
+    STATISTICS_MEAN=2.0967327855005
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.0220074335099
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 140 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,68.700
+
+  Minimum=0.000, Maximum=68.700, Mean=2.814, StdDev=6.762
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=68.699996948242
+
+    STATISTICS_MEAN=2.813564339393
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.7623131083229
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 141 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,65.377
+
+  Minimum=0.000, Maximum=65.377, Mean=2.295, StdDev=5.902
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=65.377220153809
+
+    STATISTICS_MEAN=2.2952665255092
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.9024042960619
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 142 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,144.214
+
+  Minimum=0.000, Maximum=144.214, Mean=3.308, StdDev=8.656
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=144.21418762207
+
+    STATISTICS_MEAN=3.3076770250865
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=8.6561666536623
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 143 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,114.776
+
+  Minimum=0.000, Maximum=114.776, Mean=2.251, StdDev=7.150
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=114.77606964111
+
+    STATISTICS_MEAN=2.2514160824032
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=7.1496845086174
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 144 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,149.456
+
+  Minimum=0.000, Maximum=149.456, Mean=2.419, StdDev=8.315
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=149.45565795898
+
+    STATISTICS_MEAN=2.4190848495595
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=8.3147740727268
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 145 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,160.432
+
+  Minimum=0.000, Maximum=160.432, Mean=2.533, StdDev=9.624
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=160.43153381348
+
+    STATISTICS_MEAN=2.5326826505282
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=9.6242245691583
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 146 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,95.359
+
+  Minimum=0.000, Maximum=95.359, Mean=2.331, StdDev=6.851
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=95.359100341797
+
+    STATISTICS_MEAN=2.3312800380789
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.8506386319989
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 147 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,87.191
+
+  Minimum=0.000, Maximum=87.191, Mean=1.939, StdDev=5.772
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=87.191123962402
+
+    STATISTICS_MEAN=1.9389766229228
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.7719285143664
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 148 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,97.354
+
+  Minimum=0.000, Maximum=97.354, Mean=2.168, StdDev=6.188
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=97.353958129883
+
+    STATISTICS_MEAN=2.1683777322562
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.1882411294304
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 149 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,108.727
+
+  Minimum=0.000, Maximum=108.727, Mean=2.834, StdDev=7.264
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=108.72709655762
+
+    STATISTICS_MEAN=2.8341512457242
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=7.2641381511633
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 150 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,230.987
+
+  Minimum=0.000, Maximum=230.987, Mean=2.520, StdDev=8.254
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=230.98719787598
+
+    STATISTICS_MEAN=2.519842111062
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=8.2544815836106
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 151 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,106.599
+
+  Minimum=0.000, Maximum=106.599, Mean=2.891, StdDev=7.887
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=106.59854125977
+
+    STATISTICS_MEAN=2.8911683467997
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=7.8865981711177
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 152 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,298.212
+
+  Minimum=0.000, Maximum=298.212, Mean=3.750, StdDev=11.733
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=298.21160888672
+
+    STATISTICS_MEAN=3.7501322273255
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=11.733184704616
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 153 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,224.966
+
+  Minimum=0.000, Maximum=224.966, Mean=3.306, StdDev=9.107
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=224.96618652344
+
+    STATISTICS_MEAN=3.3060958726252
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=9.1074946624859
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 154 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,132.241
+
+  Minimum=0.000, Maximum=132.241, Mean=5.216, StdDev=11.492
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=132.24128723145
+
+    STATISTICS_MEAN=5.2159858647986
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=11.491740371095
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 155 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,304.073
+
+  Minimum=0.000, Maximum=304.073, Mean=9.151, StdDev=19.235
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=304.0725402832
+
+    STATISTICS_MEAN=9.1512702849396
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=19.235369880313
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 156 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,156.732
+
+  Minimum=0.000, Maximum=156.732, Mean=7.018, StdDev=13.656
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=156.73197937012
+
+    STATISTICS_MEAN=7.0176773439405
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=13.656211667621
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 157 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,168.086
+
+  Minimum=0.000, Maximum=168.086, Mean=6.415, StdDev=15.756
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=168.08599853516
+
+    STATISTICS_MEAN=6.4153466245909
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=15.756411369773
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 158 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,148.067
+
+  Minimum=0.000, Maximum=148.067, Mean=5.687, StdDev=12.172
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=148.06748962402
+
+    STATISTICS_MEAN=5.6869745266449
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=12.172338237826
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 159 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,192.092
+
+  Minimum=0.000, Maximum=192.092, Mean=6.316, StdDev=14.333
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=192.09213256836
+
+    STATISTICS_MEAN=6.3163939853598
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=14.332677562271
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 160 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,179.125
+
+  Minimum=0.000, Maximum=179.125, Mean=5.320, StdDev=11.966
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=179.12503051758
+
+    STATISTICS_MEAN=5.3196884030979
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=11.965665992328
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 161 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,106.400
+
+  Minimum=0.000, Maximum=106.400, Mean=4.557, StdDev=10.209
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=106.40000915527
+
+    STATISTICS_MEAN=4.5568830809473
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=10.208509837658
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 162 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,105.159
+
+  Minimum=0.000, Maximum=105.159, Mean=5.346, StdDev=11.844
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=105.15893554688
+
+    STATISTICS_MEAN=5.3459855708084
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=11.844169095737
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 163 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,295.698
+
+  Minimum=0.000, Maximum=295.698, Mean=7.692, StdDev=17.262
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=295.69848632812
+
+    STATISTICS_MEAN=7.6915933320285
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=17.261972081656
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 164 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,386.889
+
+  Minimum=0.000, Maximum=386.889, Mean=11.374, StdDev=30.479
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=386.8889465332
+
+    STATISTICS_MEAN=11.373648293761
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=30.478736111112
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 165 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,303.348
+
+  Minimum=0.000, Maximum=303.348, Mean=15.859, StdDev=30.214
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=303.34829711914
+
+    STATISTICS_MEAN=15.858836620326
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=30.213864131248
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 166 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,196.286
+
+  Minimum=0.000, Maximum=196.286, Mean=13.267, StdDev=23.168
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=196.28602600098
+
+    STATISTICS_MEAN=13.267331843528
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=23.167558593145
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 167 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,276.086
+
+  Minimum=0.000, Maximum=276.086, Mean=11.400, StdDev=24.564
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=276.08587646484
+
+    STATISTICS_MEAN=11.400476827455
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=24.563731054267
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 168 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,212.102
+
+  Minimum=0.000, Maximum=212.102, Mean=8.992, StdDev=17.839
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=212.10232543945
+
+    STATISTICS_MEAN=8.992151702791
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=17.838565183568
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 169 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,256.033
+
+  Minimum=0.000, Maximum=256.033, Mean=9.612, StdDev=18.921
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=256.03298950195
+
+    STATISTICS_MEAN=9.6121877781029
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=18.920884823899
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 170 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,291.037
+
+  Minimum=0.000, Maximum=291.037, Mean=7.912, StdDev=16.346
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=291.03677368164
+
+    STATISTICS_MEAN=7.9117040779069
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=16.346286704153
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 171 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,282.598
+
+  Minimum=0.000, Maximum=282.598, Mean=7.160, StdDev=16.099
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=282.59808349609
+
+    STATISTICS_MEAN=7.1599674362128
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=16.099277619174
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 172 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,147.560
+
+  Minimum=0.000, Maximum=147.560, Mean=5.085, StdDev=10.902
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=147.56016540527
+
+    STATISTICS_MEAN=5.0845201386215
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=10.902352679069
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 173 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,198.638
+
+  Minimum=0.000, Maximum=198.638, Mean=4.890, StdDev=11.202
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=198.6382598877
+
+    STATISTICS_MEAN=4.8903912251889
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=11.202088566509
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 174 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,171.205
+
+  Minimum=0.000, Maximum=171.205, Mean=5.074, StdDev=11.549
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=171.20491027832
+
+    STATISTICS_MEAN=5.073598044553
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=11.54887189357
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 175 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,160.027
+
+  Minimum=0.000, Maximum=160.027, Mean=6.785, StdDev=13.767
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=160.02700805664
+
+    STATISTICS_MEAN=6.7845119987505
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=13.766536918769
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 176 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,157.363
+
+  Minimum=0.000, Maximum=157.363, Mean=5.564, StdDev=11.072
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=157.36250305176
+
+    STATISTICS_MEAN=5.5636789514131
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=11.071557930399
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 177 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,148.508
+
+  Minimum=0.000, Maximum=148.508, Mean=5.628, StdDev=12.057
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=148.50848388672
+
+    STATISTICS_MEAN=5.6277409685786
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=12.057029913131
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 178 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,141.673
+
+  Minimum=0.000, Maximum=141.673, Mean=6.055, StdDev=12.187
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=141.67318725586
+
+    STATISTICS_MEAN=6.0552878747803
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=12.187314663889
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 179 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,191.548
+
+  Minimum=0.000, Maximum=191.548, Mean=5.425, StdDev=11.701
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=191.54797363281
+
+    STATISTICS_MEAN=5.4252892999679
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=11.701223460449
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 180 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,98.675
+
+  Minimum=0.000, Maximum=98.675, Mean=5.654, StdDev=11.333
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=98.674819946289
+
+    STATISTICS_MEAN=5.6536612988755
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=11.333054137257
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 181 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,270.127
+
+  Minimum=0.000, Maximum=270.127, Mean=9.749, StdDev=20.277
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=270.12652587891
+
+    STATISTICS_MEAN=9.7494929840595
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=20.277260498905
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 182 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,230.542
+
+  Minimum=0.000, Maximum=230.542, Mean=9.037, StdDev=18.928
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=230.54232788086
+
+    STATISTICS_MEAN=9.0371561818047
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=18.928491801661
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 183 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,283.548
+
+  Minimum=0.000, Maximum=283.548, Mean=7.297, StdDev=21.602
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=283.54849243164
+
+    STATISTICS_MEAN=7.2966179218951
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=21.602224379949
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 184 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,297.423
+
+  Minimum=0.000, Maximum=297.423, Mean=8.458, StdDev=21.989
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=297.42321777344
+
+    STATISTICS_MEAN=8.4584996414526
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=21.989310451421
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 185 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,150.301
+
+  Minimum=0.000, Maximum=150.301, Mean=10.278, StdDev=19.945
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=150.30146789551
+
+    STATISTICS_MEAN=10.277689432881
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=19.944951357504
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 186 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,224.625
+
+  Minimum=0.000, Maximum=224.625, Mean=9.306, StdDev=19.540
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=224.62478637695
+
+    STATISTICS_MEAN=9.305635649079
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=19.539633845278
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 187 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,225.404
+
+  Minimum=0.000, Maximum=225.404, Mean=7.791, StdDev=19.450
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=225.40440368652
+
+    STATISTICS_MEAN=7.7914048476891
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=19.450394482636
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 188 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,164.227
+
+  Minimum=0.000, Maximum=164.227, Mean=7.302, StdDev=15.353
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=164.22654724121
+
+    STATISTICS_MEAN=7.3019317678648
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=15.353259211905
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 189 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,268.389
+
+  Minimum=0.000, Maximum=268.389, Mean=9.914, StdDev=20.966
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=268.38931274414
+
+    STATISTICS_MEAN=9.913837337197
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=20.965545268711
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 190 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,272.001
+
+  Minimum=0.000, Maximum=272.001, Mean=14.045, StdDev=23.581
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=272.00085449219
+
+    STATISTICS_MEAN=14.044583151767
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=23.581462719577
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 191 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,200.393
+
+  Minimum=0.000, Maximum=200.393, Mean=12.060, StdDev=19.620
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=200.39340209961
+
+    STATISTICS_MEAN=12.060045784179
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=19.619796549406
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 192 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,138.655
+
+  Minimum=0.000, Maximum=138.655, Mean=12.762, StdDev=17.534
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=138.65518188477
+
+    STATISTICS_MEAN=12.761746808043
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=17.534098207836
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 193 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,180.018
+
+  Minimum=0.000, Maximum=180.018, Mean=11.142, StdDev=20.858
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=180.01802062988
+
+    STATISTICS_MEAN=11.141806301319
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=20.858416012293
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 194 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,156.199
+
+  Minimum=0.000, Maximum=156.199, Mean=8.640, StdDev=16.851
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=156.19923400879
+
+    STATISTICS_MEAN=8.6396296659513
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=16.850733383987
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 195 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,114.172
+
+  Minimum=0.000, Maximum=114.172, Mean=6.124, StdDev=10.893
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=114.17197418213
+
+    STATISTICS_MEAN=6.1242772025761
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=10.892717659398
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 196 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,245.655
+
+  Minimum=0.000, Maximum=245.655, Mean=6.578, StdDev=13.865
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=245.65460205078
+
+    STATISTICS_MEAN=6.5782097853738
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=13.865289632676
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 197 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,280.000
+
+  Minimum=0.000, Maximum=280.000, Mean=10.418, StdDev=19.615
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=280
+
+    STATISTICS_MEAN=10.417590253558
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=19.61497520684
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 198 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,525.682
+
+  Minimum=0.000, Maximum=525.682, Mean=11.876, StdDev=27.341
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=525.68206787109
+
+    STATISTICS_MEAN=11.875669925221
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=27.340631553876
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 199 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,145.225
+
+  Minimum=0.000, Maximum=145.225, Mean=6.595, StdDev=12.461
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=145.22546386719
+
+    STATISTICS_MEAN=6.5946156073476
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=12.461257882611
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 200 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,164.898
+
+  Minimum=0.000, Maximum=164.898, Mean=6.423, StdDev=12.411
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=164.89846801758
+
+    STATISTICS_MEAN=6.4232803929678
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=12.41084095337
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 201 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,156.450
+
+  Minimum=0.000, Maximum=156.450, Mean=7.125, StdDev=13.382
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=156.4500579834
+
+    STATISTICS_MEAN=7.1250662111469
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=13.382405329833
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 202 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,188.000
+
+  Minimum=0.000, Maximum=188.000, Mean=7.901, StdDev=14.730
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=188
+
+    STATISTICS_MEAN=7.900605012707
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=14.729811153665
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 203 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,198.638
+
+  Minimum=0.000, Maximum=198.638, Mean=6.139, StdDev=12.565
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=198.6382598877
+
+    STATISTICS_MEAN=6.139139740535
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=12.56462252752
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 204 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,130.436
+
+  Minimum=0.000, Maximum=130.436, Mean=7.933, StdDev=13.014
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=130.43608093262
+
+    STATISTICS_MEAN=7.9333917713596
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=13.013858533645
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 205 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,107.833
+
+  Minimum=0.000, Maximum=107.833, Mean=8.560, StdDev=13.244
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=107.83317565918
+
+    STATISTICS_MEAN=8.5599616519284
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=13.243886147067
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 206 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,225.000
+
+  Minimum=0.000, Maximum=225.000, Mean=6.946, StdDev=12.927
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=225
+
+    STATISTICS_MEAN=6.9462675482446
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=12.926903180736
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 207 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,172.000
+
+  Minimum=0.000, Maximum=172.000, Mean=7.324, StdDev=13.307
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=172
+
+    STATISTICS_MEAN=7.3235693065214
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=13.30693271445
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 208 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,692.911
+
+  Minimum=0.000, Maximum=692.911, Mean=8.442, StdDev=24.466
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=692.91143798828
+
+    STATISTICS_MEAN=8.4424953708601
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=24.466132124621
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 209 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,448.642
+
+  Minimum=0.000, Maximum=448.642, Mean=9.090, StdDev=22.601
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=448.64242553711
+
+    STATISTICS_MEAN=9.0898284287125
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=22.601254881686
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 210 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,571.343
+
+  Minimum=0.000, Maximum=571.343, Mean=10.852, StdDev=27.476
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=571.34289550781
+
+    STATISTICS_MEAN=10.851995022188
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=27.475628757379
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 211 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,304.876
+
+  Minimum=0.000, Maximum=304.876, Mean=9.264, StdDev=20.376
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=304.87585449219
+
+    STATISTICS_MEAN=9.2638122327341
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=20.375747105061
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 212 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,264.261
+
+  Minimum=0.000, Maximum=264.261, Mean=5.415, StdDev=16.172
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=264.26138305664
+
+    STATISTICS_MEAN=5.4152055837148
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=16.172333354845
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 213 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,165.180
+
+  Minimum=0.000, Maximum=165.180, Mean=5.252, StdDev=12.842
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=165.18003845215
+
+    STATISTICS_MEAN=5.2523949254052
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=12.84179055519
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 214 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,137.891
+
+  Minimum=0.000, Maximum=137.891, Mean=5.666, StdDev=12.150
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=137.89064025879
+
+    STATISTICS_MEAN=5.6656001117216
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=12.149817843446
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 215 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,121.806
+
+  Minimum=0.000, Maximum=121.806, Mean=6.361, StdDev=12.348
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=121.80647277832
+
+    STATISTICS_MEAN=6.3608966319402
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=12.348395660077
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 216 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,193.527
+
+  Minimum=0.000, Maximum=193.527, Mean=7.694, StdDev=15.403
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=193.52714538574
+
+    STATISTICS_MEAN=7.6942737003102
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=15.40310141136
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 217 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,197.445
+
+  Minimum=0.000, Maximum=197.445, Mean=7.284, StdDev=13.732
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=197.44465637207
+
+    STATISTICS_MEAN=7.2836872258169
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=13.731503257551
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 218 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,134.976
+
+  Minimum=0.000, Maximum=134.976, Mean=6.428, StdDev=11.298
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=134.9759979248
+
+    STATISTICS_MEAN=6.4282397748895
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=11.297631610486
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 219 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,122.507
+
+  Minimum=0.000, Maximum=122.507, Mean=5.722, StdDev=9.963
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=122.50736236572
+
+    STATISTICS_MEAN=5.7217515756021
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=9.9634480535119
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 220 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,169.873
+
+  Minimum=0.000, Maximum=169.873, Mean=6.461, StdDev=12.129
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=169.87319946289
+
+    STATISTICS_MEAN=6.4608004793636
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=12.129172993588
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 221 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,639.274
+
+  Minimum=0.000, Maximum=639.274, Mean=8.381, StdDev=18.137
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=639.27423095703
+
+    STATISTICS_MEAN=8.3813529421998
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=18.136992589447
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 222 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,206.423
+
+  Minimum=0.000, Maximum=206.423, Mean=8.275, StdDev=13.930
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=206.42338562012
+
+    STATISTICS_MEAN=8.2754205623154
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=13.930159675989
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 223 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,99.730
+
+  Minimum=0.000, Maximum=99.730, Mean=7.360, StdDev=11.094
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=99.729515075684
+
+    STATISTICS_MEAN=7.3601768521936
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=11.094116673861
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 224 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,225.735
+
+  Minimum=0.000, Maximum=225.735, Mean=7.621, StdDev=14.771
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=225.73532104492
+
+    STATISTICS_MEAN=7.6207723479499
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=14.771328955974
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 225 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,132.608
+
+  Minimum=0.000, Maximum=132.608, Mean=6.023, StdDev=12.626
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=132.6078338623
+
+    STATISTICS_MEAN=6.0229809617355
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=12.625734224133
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 226 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,235.364
+
+  Minimum=0.000, Maximum=235.364, Mean=10.673, StdDev=20.095
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=235.36401367188
+
+    STATISTICS_MEAN=10.673115466724
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=20.094911186697
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 227 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,189.737
+
+  Minimum=0.000, Maximum=189.737, Mean=10.775, StdDev=16.487
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=189.73652648926
+
+    STATISTICS_MEAN=10.7750704096
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=16.486915197637
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 228 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,262.317
+
+  Minimum=0.000, Maximum=262.317, Mean=9.958, StdDev=18.938
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=262.31658935547
+
+    STATISTICS_MEAN=9.9582447435461
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=18.937842201378
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 229 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,129.839
+
+  Minimum=0.000, Maximum=129.839, Mean=6.649, StdDev=12.406
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=129.83877563477
+
+    STATISTICS_MEAN=6.6486485343438
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=12.405952691413
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 230 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,152.266
+
+  Minimum=0.000, Maximum=152.266, Mean=5.211, StdDev=10.703
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=152.26588439941
+
+    STATISTICS_MEAN=5.2113168333761
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=10.702647867092
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 231 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,252.200
+
+  Minimum=0.000, Maximum=252.200, Mean=6.303, StdDev=14.247
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=252.19999694824
+
+    STATISTICS_MEAN=6.3029044185758
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=14.247484111748
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 232 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,221.253
+
+  Minimum=0.000, Maximum=221.253, Mean=7.201, StdDev=20.083
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=221.25309753418
+
+    STATISTICS_MEAN=7.2010600820205
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=20.082554260614
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 233 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,180.000
+
+  Minimum=0.000, Maximum=180.000, Mean=6.449, StdDev=13.068
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=180
+
+    STATISTICS_MEAN=6.4489365091156
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=13.068136019304
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 234 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,201.133
+
+  Minimum=0.000, Maximum=201.133, Mean=6.740, StdDev=14.309
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=201.1332244873
+
+    STATISTICS_MEAN=6.7399251250119
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=14.309362399687
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 235 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,148.308
+
+  Minimum=0.000, Maximum=148.308, Mean=6.643, StdDev=13.105
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=148.3083190918
+
+    STATISTICS_MEAN=6.6426946168884
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=13.105342857815
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 236 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,206.762
+
+  Minimum=0.000, Maximum=206.762, Mean=7.506, StdDev=14.449
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=206.76184082031
+
+    STATISTICS_MEAN=7.50641290377
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=14.449048353454
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 237 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,174.738
+
+  Minimum=0.000, Maximum=174.738, Mean=5.353, StdDev=11.036
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=174.73753356934
+
+    STATISTICS_MEAN=5.3526717853251
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=11.036079429741
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 238 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,198.737
+
+  Minimum=0.000, Maximum=198.737, Mean=4.032, StdDev=10.686
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=198.73683166504
+
+    STATISTICS_MEAN=4.032152114433
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=10.686489953651
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 239 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,172.887
+
+  Minimum=0.000, Maximum=172.887, Mean=5.199, StdDev=12.256
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=172.88711547852
+
+    STATISTICS_MEAN=5.1985713586536
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=12.256115610022
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 240 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,149.233
+
+  Minimum=0.000, Maximum=149.233, Mean=3.852, StdDev=9.648
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=149.23304748535
+
+    STATISTICS_MEAN=3.8517885372541
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=9.6477880544017
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 241 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,161.299
+
+  Minimum=0.000, Maximum=161.299, Mean=3.402, StdDev=10.078
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=161.29942321777
+
+    STATISTICS_MEAN=3.4017341626533
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=10.077954728776
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 242 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,122.038
+
+  Minimum=0.000, Maximum=122.038, Mean=3.371, StdDev=9.433
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=122.03811645508
+
+    STATISTICS_MEAN=3.370611613813
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=9.432658217493
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 243 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,231.187
+
+  Minimum=0.000, Maximum=231.187, Mean=4.836, StdDev=12.981
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=231.1872253418
+
+    STATISTICS_MEAN=4.8362404342972
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=12.981303288921
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 244 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,165.656
+
+  Minimum=0.000, Maximum=165.656, Mean=5.784, StdDev=14.903
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=165.65632629395
+
+    STATISTICS_MEAN=5.7843710292719
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=14.903373257059
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 245 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,306.412
+
+  Minimum=0.000, Maximum=306.412, Mean=6.788, StdDev=19.810
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=306.41168212891
+
+    STATISTICS_MEAN=6.7879681924612
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=19.809732326293
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 246 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,304.152
+
+  Minimum=0.000, Maximum=304.152, Mean=5.322, StdDev=17.983
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=304.15237426758
+
+    STATISTICS_MEAN=5.3217232192955
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=17.982751661998
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 247 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,161.883
+
+  Minimum=0.000, Maximum=161.883, Mean=3.962, StdDev=9.607
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=161.8833770752
+
+    STATISTICS_MEAN=3.9621308466583
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=9.6073866588685
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 248 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,136.875
+
+  Minimum=0.000, Maximum=136.875, Mean=3.454, StdDev=8.892
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=136.87484741211
+
+    STATISTICS_MEAN=3.4536187324499
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=8.8923159497181
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 249 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,108.220
+
+  Minimum=0.000, Maximum=108.220, Mean=3.275, StdDev=8.572
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=108.22030639648
+
+    STATISTICS_MEAN=3.2745142561863
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=8.5718078048665
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 250 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,102.745
+
+  Minimum=0.000, Maximum=102.745, Mean=3.215, StdDev=8.925
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=102.74520111084
+
+    STATISTICS_MEAN=3.2153424940145
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=8.9251574651693
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 251 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,79.256
+
+  Minimum=0.000, Maximum=79.256, Mean=3.043, StdDev=7.818
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=79.25634765625
+
+    STATISTICS_MEAN=3.0433094363425
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=7.8177002874114
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 252 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,104.220
+
+  Minimum=0.000, Maximum=104.220, Mean=3.088, StdDev=9.147
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=104.22003936768
+
+    STATISTICS_MEAN=3.0883416104657
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=9.1471389988008
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 253 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,114.013
+
+  Minimum=0.000, Maximum=114.013, Mean=2.792, StdDev=7.775
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=114.01317596436
+
+    STATISTICS_MEAN=2.7923754494169
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=7.7754483929925
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 254 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,117.436
+
+  Minimum=0.000, Maximum=117.436, Mean=3.085, StdDev=8.561
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=117.43618774414
+
+    STATISTICS_MEAN=3.084536860273
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=8.5606599818426
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 255 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,166.296
+
+  Minimum=0.000, Maximum=166.296, Mean=4.537, StdDev=10.958
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=166.29571533203
+
+    STATISTICS_MEAN=4.5371398780822
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=10.958424045411
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 256 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,170.443
+
+  Minimum=0.000, Maximum=170.443, Mean=4.038, StdDev=11.597
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=170.44343566895
+
+    STATISTICS_MEAN=4.0384924122876
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=11.597496997065
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 257 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,123.556
+
+  Minimum=0.000, Maximum=123.556, Mean=3.225, StdDev=7.767
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=123.55632019043
+
+    STATISTICS_MEAN=3.2248315017905
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=7.766953737179
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 258 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,284.783
+
+  Minimum=0.000, Maximum=284.783, Mean=4.170, StdDev=12.093
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=284.78289794922
+
+    STATISTICS_MEAN=4.170466639906
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=12.092597316978
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 259 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,75.463
+
+  Minimum=0.000, Maximum=75.463, Mean=2.018, StdDev=5.513
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=75.462692260742
+
+    STATISTICS_MEAN=2.0184884963604
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.5130434887017
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 260 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,128.729
+
+  Minimum=0.000, Maximum=128.729, Mean=5.850, StdDev=12.913
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=128.7287902832
+
+    STATISTICS_MEAN=5.8504792898398
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=12.91253782944
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 261 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,117.000
+
+  Minimum=0.000, Maximum=117.000, Mean=3.511, StdDev=8.630
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=117
+
+    STATISTICS_MEAN=3.5110293200148
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=8.6300151856402
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 262 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,339.445
+
+  Minimum=0.000, Maximum=339.445, Mean=4.354, StdDev=15.189
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=339.44519042969
+
+    STATISTICS_MEAN=4.3536850779837
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=15.189384145785
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 263 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,203.592
+
+  Minimum=0.000, Maximum=203.592, Mean=3.765, StdDev=11.662
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=203.5923614502
+
+    STATISTICS_MEAN=3.765488650231
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=11.662436101298
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 264 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,112.399
+
+  Minimum=0.000, Maximum=112.399, Mean=2.723, StdDev=8.008
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=112.39920043945
+
+    STATISTICS_MEAN=2.7234999465949
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=8.0083036797322
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 265 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,84.115
+
+  Minimum=0.000, Maximum=84.115, Mean=2.203, StdDev=7.108
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=84.115226745605
+
+    STATISTICS_MEAN=2.2033871954546
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=7.1082509390235
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 266 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,109.949
+
+  Minimum=0.000, Maximum=109.949, Mean=2.793, StdDev=8.618
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=109.9493560791
+
+    STATISTICS_MEAN=2.7934007652623
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=8.6178352845115
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 267 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,124.843
+
+  Minimum=0.000, Maximum=124.843, Mean=2.024, StdDev=6.397
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=124.84320831299
+
+    STATISTICS_MEAN=2.0236493504121
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.3967510852537
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 268 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,81.396
+
+  Minimum=0.000, Maximum=81.396, Mean=2.148, StdDev=6.303
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=81.396186828613
+
+    STATISTICS_MEAN=2.147871167775
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.3031891326505
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 269 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,86.115
+
+  Minimum=0.000, Maximum=86.115, Mean=3.337, StdDev=8.168
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=86.114562988281
+
+    STATISTICS_MEAN=3.3368241508055
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=8.1681538935759
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 270 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,84.574
+
+  Minimum=0.000, Maximum=84.574, Mean=3.946, StdDev=9.049
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=84.574081420898
+
+    STATISTICS_MEAN=3.9456541969679
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=9.0494246882402
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 271 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,162.905
+
+  Minimum=0.000, Maximum=162.905, Mean=3.483, StdDev=8.898
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=162.90538024902
+
+    STATISTICS_MEAN=3.4834504944034
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=8.8976406018232
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 272 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,92.112
+
+  Minimum=0.000, Maximum=92.112, Mean=2.322, StdDev=6.212
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=92.111778259277
+
+    STATISTICS_MEAN=2.3222621440944
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.2124467622273
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 273 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,289.241
+
+  Minimum=0.000, Maximum=289.241, Mean=6.079, StdDev=16.237
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=289.24084472656
+
+    STATISTICS_MEAN=6.0789912050105
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=16.237443757263
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 274 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,182.994
+
+  Minimum=0.000, Maximum=182.994, Mean=9.546, StdDev=18.676
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=182.99388122559
+
+    STATISTICS_MEAN=9.5458755127179
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=18.676028533032
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 275 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,490.198
+
+  Minimum=0.000, Maximum=490.198, Mean=8.985, StdDev=17.424
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=490.19781494141
+
+    STATISTICS_MEAN=8.9845712960538
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=17.423833590536
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 276 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,315.387
+
+  Minimum=0.000, Maximum=315.387, Mean=7.498, StdDev=15.365
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=315.38714599609
+
+    STATISTICS_MEAN=7.4977033219235
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=15.365372925518
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 277 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,321.943
+
+  Minimum=0.000, Maximum=321.943, Mean=7.157, StdDev=17.853
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=321.94314575195
+
+    STATISTICS_MEAN=7.1567240755774
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=17.852849200677
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 278 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,212.186
+
+  Minimum=0.000, Maximum=212.186, Mean=8.001, StdDev=19.643
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=212.18557739258
+
+    STATISTICS_MEAN=8.0012041923982
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=19.642526595472
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 279 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,822.063
+
+  Minimum=0.000, Maximum=822.063, Mean=8.135, StdDev=22.366
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=822.06329345703
+
+    STATISTICS_MEAN=8.1352532132214
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=22.365616361836
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 280 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,127.010
+
+  Minimum=0.000, Maximum=127.010, Mean=6.350, StdDev=15.287
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=127.00997924805
+
+    STATISTICS_MEAN=6.3503516861234
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=15.287375627692
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 281 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,119.963
+
+  Minimum=0.000, Maximum=119.963, Mean=3.889, StdDev=9.357
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=119.9633026123
+
+    STATISTICS_MEAN=3.8886343144739
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=9.3574831298595
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 282 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,88.923
+
+  Minimum=0.000, Maximum=88.923, Mean=2.071, StdDev=5.680
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=88.922592163086
+
+    STATISTICS_MEAN=2.0710616563833
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.6803088010556
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 283 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,395.415
+
+  Minimum=0.000, Maximum=395.415, Mean=3.656, StdDev=11.549
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=395.41455078125
+
+    STATISTICS_MEAN=3.656089586975
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=11.549352142837
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 284 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,473.289
+
+  Minimum=0.000, Maximum=473.289, Mean=4.377, StdDev=13.473
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=473.28854370117
+
+    STATISTICS_MEAN=4.3765225964947
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=13.472952786142
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 285 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,100.705
+
+  Minimum=0.000, Maximum=100.705, Mean=2.979, StdDev=7.913
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=100.70464324951
+
+    STATISTICS_MEAN=2.9790901426244
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=7.9131268890116
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 286 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,143.107
+
+  Minimum=0.000, Maximum=143.107, Mean=3.109, StdDev=9.041
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=143.10745239258
+
+    STATISTICS_MEAN=3.1089365789359
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=9.041294263595
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 287 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,110.521
+
+  Minimum=0.000, Maximum=110.521, Mean=2.219, StdDev=7.159
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=110.52101898193
+
+    STATISTICS_MEAN=2.2186468460918
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=7.1593566644724
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 288 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,107.189
+
+  Minimum=0.000, Maximum=107.189, Mean=1.710, StdDev=6.442
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=107.18891143799
+
+    STATISTICS_MEAN=1.7099354474998
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.4424581956632
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 289 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,255.028
+
+  Minimum=0.000, Maximum=255.028, Mean=3.218, StdDev=14.459
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=255.02806091309
+
+    STATISTICS_MEAN=3.218215868677
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=14.458891388725
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 290 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,226.400
+
+  Minimum=0.000, Maximum=226.400, Mean=4.283, StdDev=17.298
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=226.40020751953
+
+    STATISTICS_MEAN=4.2827949480939
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=17.298174655415
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 291 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,141.552
+
+  Minimum=0.000, Maximum=141.552, Mean=2.452, StdDev=7.271
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=141.5517578125
+
+    STATISTICS_MEAN=2.4515269998503
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=7.2706762498861
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 292 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,98.062
+
+  Minimum=0.000, Maximum=98.062, Mean=1.131, StdDev=4.622
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=98.061782836914
+
+    STATISTICS_MEAN=1.1312413979907
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=4.6218938191872
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 293 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,70.325
+
+  Minimum=0.000, Maximum=70.325, Mean=0.992, StdDev=4.461
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=70.324615478516
+
+    STATISTICS_MEAN=0.99224631072117
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=4.4606727214849
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 294 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,43.832
+
+  Minimum=0.000, Maximum=43.832, Mean=0.357, StdDev=2.150
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=43.832401275635
+
+    STATISTICS_MEAN=0.3566206306126
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.1501547341532
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 295 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,50.868
+
+  Minimum=0.000, Maximum=50.868, Mean=0.296, StdDev=2.278
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=50.868064880371
+
+    STATISTICS_MEAN=0.29594859181874
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.2775853868269
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 296 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,45.332
+
+  Minimum=0.000, Maximum=45.332, Mean=0.115, StdDev=1.341
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=45.331554412842
+
+    STATISTICS_MEAN=0.11529811532488
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.341155354022
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 297 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,37.293
+
+  Minimum=0.000, Maximum=37.293, Mean=0.166, StdDev=1.323
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=37.29275894165
+
+    STATISTICS_MEAN=0.16623874729699
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.3232568874481
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 298 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,86.545
+
+  Minimum=0.000, Maximum=86.545, Mean=0.960, StdDev=5.226
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=86.544998168945
+
+    STATISTICS_MEAN=0.96039139226193
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.2262439907812
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 299 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,128.573
+
+  Minimum=0.000, Maximum=128.573, Mean=0.770, StdDev=5.164
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=128.57345581055
+
+    STATISTICS_MEAN=0.76980560085767
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.1644080985917
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 300 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,118.688
+
+  Minimum=0.000, Maximum=118.688, Mean=0.630, StdDev=4.330
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=118.68775939941
+
+    STATISTICS_MEAN=0.63023597423639
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=4.330458508221
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 301 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,45.174
+
+  Minimum=0.000, Maximum=45.174, Mean=0.267, StdDev=1.771
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=45.174415588379
+
+    STATISTICS_MEAN=0.2669146708997
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.7705192564836
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 302 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,50.838
+
+  Minimum=0.000, Maximum=50.838, Mean=0.593, StdDev=3.598
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=50.837779998779
+
+    STATISTICS_MEAN=0.59284732446651
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.5977415302487
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 303 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,107.839
+
+  Minimum=0.000, Maximum=107.839, Mean=1.085, StdDev=5.859
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=107.83876800537
+
+    STATISTICS_MEAN=1.0854841021282
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.858560316808
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 304 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,99.687
+
+  Minimum=0.000, Maximum=99.687, Mean=1.524, StdDev=6.135
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=99.686805725098
+
+    STATISTICS_MEAN=1.5242540533523
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.134624555886
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 305 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,57.997
+
+  Minimum=0.000, Maximum=57.997, Mean=0.758, StdDev=3.728
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=57.997421264648
+
+    STATISTICS_MEAN=0.75848277128249
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.7275219446059
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 306 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,37.000
+
+  Minimum=0.000, Maximum=37.000, Mean=0.922, StdDev=4.124
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=37
+
+    STATISTICS_MEAN=0.9224563317687
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=4.1238935397879
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 307 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,45.800
+
+  Minimum=0.000, Maximum=45.800, Mean=1.095, StdDev=5.306
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=45.799999237061
+
+    STATISTICS_MEAN=1.0945890500262
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.306032867915
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 308 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,54.629
+
+  Minimum=0.000, Maximum=54.629, Mean=1.699, StdDev=6.697
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=54.62939453125
+
+    STATISTICS_MEAN=1.698682190253
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.6974292723993
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 309 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,170.850
+
+  Minimum=0.000, Maximum=170.850, Mean=0.674, StdDev=4.494
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=170.84959411621
+
+    STATISTICS_MEAN=0.6740009704219
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=4.4940724710792
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 310 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,130.696
+
+  Minimum=0.000, Maximum=130.696, Mean=1.869, StdDev=7.126
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=130.69630432129
+
+    STATISTICS_MEAN=1.8688491711515
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=7.1258286153433
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 311 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,192.808
+
+  Minimum=0.000, Maximum=192.808, Mean=2.073, StdDev=9.200
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=192.80778503418
+
+    STATISTICS_MEAN=2.0729694150232
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=9.1996740395168
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 312 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,146.499
+
+  Minimum=0.000, Maximum=146.499, Mean=1.341, StdDev=6.233
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=146.49896240234
+
+    STATISTICS_MEAN=1.341220883552
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.2332951347178
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 313 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,62.309
+
+  Minimum=0.000, Maximum=62.309, Mean=0.467, StdDev=2.654
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=62.308765411377
+
+    STATISTICS_MEAN=0.4670190065814
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.6541677365011
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 314 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,92.301
+
+  Minimum=0.000, Maximum=92.301, Mean=0.494, StdDev=3.888
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=92.301452636719
+
+    STATISTICS_MEAN=0.49353872203417
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.8882057206488
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 315 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,68.123
+
+  Minimum=0.000, Maximum=68.123, Mean=0.760, StdDev=3.934
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=68.122993469238
+
+    STATISTICS_MEAN=0.75996130112015
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.9338725869903
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 316 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,90.676
+
+  Minimum=0.000, Maximum=90.676, Mean=0.734, StdDev=4.287
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=90.675811767578
+
+    STATISTICS_MEAN=0.73366533173736
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=4.2869154650531
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 317 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,31.112
+
+  Minimum=0.000, Maximum=31.112, Mean=0.272, StdDev=1.753
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=31.112323760986
+
+    STATISTICS_MEAN=0.27222568297565
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.7533663535133
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 318 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,48.622
+
+  Minimum=0.000, Maximum=48.622, Mean=0.190, StdDev=1.606
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=48.621955871582
+
+    STATISTICS_MEAN=0.18966266712343
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.605715207692
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 319 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,64.462
+
+  Minimum=0.000, Maximum=64.462, Mean=0.613, StdDev=3.601
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=64.461578369141
+
+    STATISTICS_MEAN=0.61303373975537
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.6014208625704
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 320 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,120.751
+
+  Minimum=0.000, Maximum=120.751, Mean=1.304, StdDev=6.763
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=120.75060272217
+
+    STATISTICS_MEAN=1.3036647459851
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=6.7625811232626
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 321 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,97.116
+
+  Minimum=0.000, Maximum=97.116, Mean=1.113, StdDev=5.329
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=97.11589050293
+
+    STATISTICS_MEAN=1.1126317044586
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.3287672324811
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 322 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,41.555
+
+  Minimum=0.000, Maximum=41.555, Mean=0.468, StdDev=2.223
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=41.554950714111
+
+    STATISTICS_MEAN=0.46847668148151
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.223480320232
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 323 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,54.567
+
+  Minimum=0.000, Maximum=54.567, Mean=0.385, StdDev=2.384
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=54.566551208496
+
+    STATISTICS_MEAN=0.38505030380326
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.3836342984842
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 324 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,12.681
+
+  Minimum=0.000, Maximum=12.681, Mean=0.110, StdDev=0.753
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=12.681418418884
+
+    STATISTICS_MEAN=0.10998891723266
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.75308525218251
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 325 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,31.842
+
+  Minimum=0.000, Maximum=31.842, Mean=0.084, StdDev=1.106
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=31.842391967773
+
+    STATISTICS_MEAN=0.084442455980455
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.1061357539322
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 326 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,107.308
+
+  Minimum=0.000, Maximum=107.308, Mean=0.426, StdDev=3.249
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=107.30792999268
+
+    STATISTICS_MEAN=0.42649407266496
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.2494591400551
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 327 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,58.678
+
+  Minimum=0.000, Maximum=58.678, Mean=0.357, StdDev=2.304
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=58.677947998047
+
+    STATISTICS_MEAN=0.35650395830578
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.3041189420576
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 328 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,39.606
+
+  Minimum=0.000, Maximum=39.606, Mean=0.103, StdDev=0.928
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=39.605670928955
+
+    STATISTICS_MEAN=0.10261910826142
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.92806056481772
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 329 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,28.585
+
+  Minimum=0.000, Maximum=28.585, Mean=0.103, StdDev=1.257
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=28.585321426392
+
+    STATISTICS_MEAN=0.1026058254807
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.2573628532978
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 330 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,21.591
+
+  Minimum=0.000, Maximum=21.591, Mean=0.099, StdDev=0.996
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=21.591041564941
+
+    STATISTICS_MEAN=0.098949463986983
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.99554140374688
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 331 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,18.854
+
+  Minimum=0.000, Maximum=18.854, Mean=0.093, StdDev=0.937
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=18.854148864746
+
+    STATISTICS_MEAN=0.093418240027861
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.93684579867796
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 332 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,24.705
+
+  Minimum=0.000, Maximum=24.705, Mean=0.117, StdDev=1.161
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=24.704784393311
+
+    STATISTICS_MEAN=0.11724743088985
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.1614185857177
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 333 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,33.147
+
+  Minimum=0.000, Maximum=33.147, Mean=0.106, StdDev=1.513
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=33.146808624268
+
+    STATISTICS_MEAN=0.10560950821177
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.5132731232413
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 334 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,19.572
+
+  Minimum=0.000, Maximum=19.572, Mean=0.089, StdDev=0.846
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=19.571575164795
+
+    STATISTICS_MEAN=0.088883849761414
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.84614408583839
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 335 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,67.911
+
+  Minimum=0.000, Maximum=67.911, Mean=0.193, StdDev=2.287
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=67.910667419434
+
+    STATISTICS_MEAN=0.19341220382652
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.2873079098118
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 336 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,20.054
+
+  Minimum=0.000, Maximum=20.054, Mean=0.083, StdDev=0.715
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=20.053779602051
+
+    STATISTICS_MEAN=0.083179832879667
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.71479271086042
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 337 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,10.489
+
+  Minimum=0.000, Maximum=10.489, Mean=0.028, StdDev=0.349
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=10.488627433777
+
+    STATISTICS_MEAN=0.027815904544845
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.34875493495362
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 338 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,33.952
+
+  Minimum=0.000, Maximum=33.952, Mean=0.265, StdDev=1.439
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=33.952377319336
+
+    STATISTICS_MEAN=0.26536939526389
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.4387120931249
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 339 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,27.000
+
+  Minimum=0.000, Maximum=27.000, Mean=0.054, StdDev=0.813
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=27
+
+    STATISTICS_MEAN=0.053781514882285
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.81324397694726
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 340 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,9.284
+
+  Minimum=0.000, Maximum=9.284, Mean=0.021, StdDev=0.253
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=9.2842102050781
+
+    STATISTICS_MEAN=0.021161095101888
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.25267785702275
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 341 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,25.133
+
+  Minimum=0.000, Maximum=25.133, Mean=0.118, StdDev=1.322
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=25.133348464966
+
+    STATISTICS_MEAN=0.11778343105831
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.3223663557413
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 342 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,39.295
+
+  Minimum=0.000, Maximum=39.295, Mean=0.133, StdDev=1.219
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=39.295406341553
+
+    STATISTICS_MEAN=0.13347550250116
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.2191314129897
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 343 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,22.843
+
+  Minimum=0.000, Maximum=22.843, Mean=0.220, StdDev=1.393
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=22.843141555786
+
+    STATISTICS_MEAN=0.2204041720085
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.3930501155393
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 344 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,12.292
+
+  Minimum=0.000, Maximum=12.292, Mean=0.038, StdDev=0.464
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=12.291827201843
+
+    STATISTICS_MEAN=0.037959971089189
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.46407626044886
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 345 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,11.646
+
+  Minimum=0.000, Maximum=11.646, Mean=0.245, StdDev=1.047
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=11.645662307739
+
+    STATISTICS_MEAN=0.24473810965296
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.0473128149914
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 346 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,10.408
+
+  Minimum=0.000, Maximum=10.408, Mean=0.188, StdDev=0.974
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=10.408463478088
+
+    STATISTICS_MEAN=0.18779629132861
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.97412564142699
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 347 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,1.683
+
+  Minimum=0.000, Maximum=1.683, Mean=0.006, StdDev=0.080
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=1.683293223381
+
+    STATISTICS_MEAN=0.0061875474950678
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.080408537515281
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 348 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,19.000
+
+  Minimum=0.000, Maximum=19.000, Mean=0.481, StdDev=2.308
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=19
+
+    STATISTICS_MEAN=0.48097317257564
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.3081597776513
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 349 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,20.500
+
+  Minimum=0.000, Maximum=20.500, Mean=0.557, StdDev=2.498
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=20.5
+
+    STATISTICS_MEAN=0.5571479687841
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.4983608746233
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 350 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,24.000
+
+  Minimum=0.000, Maximum=24.000, Mean=0.387, StdDev=2.001
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=24
+
+    STATISTICS_MEAN=0.38735805609167
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.0008895807393
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 351 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,12.232
+
+  Minimum=0.000, Maximum=12.232, Mean=0.025, StdDev=0.353
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=12.232359886169
+
+    STATISTICS_MEAN=0.025128459559392
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=0.35305095672935
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 352 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,28.799
+
+  Minimum=0.000, Maximum=28.799, Mean=0.340, StdDev=1.629
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=28.799215316772
+
+    STATISTICS_MEAN=0.34023806327124
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=1.6290681157788
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 353 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,21.348
+
+  Minimum=0.000, Maximum=21.348, Mean=0.763, StdDev=2.599
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=21.347629547119
+
+    STATISTICS_MEAN=0.76336979736048
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.5991581742521
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 354 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,135.381
+
+  Minimum=0.000, Maximum=135.381, Mean=0.139, StdDev=2.357
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=135.38121032715
+
+    STATISTICS_MEAN=0.13870473042293
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.3574194962315
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 355 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,135.381
+
+  Minimum=0.000, Maximum=135.381, Mean=0.341, StdDev=3.751
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=135.38121032715
+
+    STATISTICS_MEAN=0.34105409145217
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=3.7509949379623
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 356 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,135.381
+
+  Minimum=0.000, Maximum=135.381, Mean=0.623, StdDev=5.248
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=135.38121032715
+
+    STATISTICS_MEAN=0.62299135592852
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=5.2478755891807
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 357 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,135.381
+
+  Minimum=0.000, Maximum=135.381, Mean=0.509, StdDev=4.163
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=135.38121032715
+
+    STATISTICS_MEAN=0.50922027894571
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=4.1629674131989
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 358 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,135.381
+
+  Minimum=0.000, Maximum=135.381, Mean=0.235, StdDev=2.708
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=135.38121032715
+
+    STATISTICS_MEAN=0.23535252676183
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.7080396440869
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 359 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,135.381
+
+  Minimum=0.000, Maximum=135.381, Mean=0.201, StdDev=2.702
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=135.38121032715
+
+    STATISTICS_MEAN=0.20129248800955
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.702072574761
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 360 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,135.381
+
+  Minimum=0.000, Maximum=135.381, Mean=0.124, StdDev=2.359
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=135.38121032715
+
+    STATISTICS_MEAN=0.12415271299673
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.3593912380179
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 361 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,135.381
+
+  Minimum=0.000, Maximum=135.381, Mean=0.087, StdDev=2.221
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=135.38121032715
+
+    STATISTICS_MEAN=0.086696175531177
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.2211812064389
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 362 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,135.381
+
+  Minimum=0.000, Maximum=135.381, Mean=0.065, StdDev=2.209
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=135.38121032715
+
+    STATISTICS_MEAN=0.064512289323567
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.2086083468578
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 363 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,135.381
+
+  Minimum=0.000, Maximum=135.381, Mean=0.067, StdDev=2.224
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=135.38121032715
+
+    STATISTICS_MEAN=0.06672223176474
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.2237301078348
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 364 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,135.381
+
+  Minimum=0.000, Maximum=135.381, Mean=0.093, StdDev=2.333
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=135.38121032715
+
+    STATISTICS_MEAN=0.093180449313269
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.3334448400263
+
+    STATISTICS_VALID_PERCENT=28.5
+
+Band 365 Block=135x1 Type=Float64, ColorInterp=Undefined
+
+    Computed Min/Max=0.000,135.381
+
+  Minimum=0.000, Maximum=135.381, Mean=0.053, StdDev=2.181
+
+  NoData Value=-999
+
+  Metadata:
+
+    STATISTICS_MAXIMUM=135.38121032715
+
+    STATISTICS_MEAN=0.052849231673574
+
+    STATISTICS_MINIMUM=0
+
+    STATISTICS_STDDEV=2.1807823579897
+
+    STATISTICS_VALID_PERCENT=28.5
